@@ -1,8 +1,8 @@
 #include<stdio.h>
-/*
+/**
  * main : print the string in the main function
  * description : use of main function
- * return o
+ * return:0
  */
 int main(void)
 {
