@@ -2,7 +2,7 @@
 /**
  * main : print the string in the main function
  * description : use of main function
- * return:0
+ * return: Always o (successful)
  */
 int main(void)
 {
